@@ -4,6 +4,7 @@ Get screen resolutions
 
 ```ts
 import { resolutions } from 'screen-resolutions'
+// const { resolutions } = require('screen-resolutions');
 
 (async () => {
   console.log(await resolutions());
