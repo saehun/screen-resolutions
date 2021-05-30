@@ -1,7 +1,14 @@
 # ScreenResolutions
-
 Get screen resolutions
 
+## installation
+```sh
+yarn add screen-resolutions
+npm i screen-resolutions
+```
+
+
+## Usage
 ```ts
 import { resolutions } from 'screen-resolutions'
 // const { resolutions } = require('screen-resolutions');
