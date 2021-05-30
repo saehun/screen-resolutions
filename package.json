@@ -17,6 +17,9 @@
     "name": "Karl Saehun Chung",
     "email": "nycom13@gmail.com"
   },
+  "files": [
+    "dist", "README.md", "license"
+  ],
   "devDependencies": {
     "@types/jest": "^26.0.20",
     "@types/node": "^14.14.31",
